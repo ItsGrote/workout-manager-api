@@ -24,7 +24,10 @@ Data is currently stored in a JSON file (temporary persistence layer).
 
 ```bash
 pip install -r requirements.txt
-python -m app.app
+```
+```bash
+python app/app.py
+```
 
 ---
 
